@@ -1,0 +1,57 @@
+absl-py==0.14.0
+astunparse==1.6.3
+cachetools==4.2.2
+certifi==2021.5.30
+cffi @ file:///D:/bld/cffi_1631636425438/work
+charset-normalizer==2.0.6
+click==7.1.2
+cryptography @ file:///D:/bld/cryptography_1616851649655/work
+dnspython==1.16.0
+ecdsa @ file:///home/conda/feedstock_root/build_artifacts/ecdsa_1622145559160/work
+eventlet @ file:///home/conda/feedstock_root/build_artifacts/eventlet_1630500954833/work
+Flask==1.1.2
+flatbuffers==1.12
+gast==0.3.3
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+greenlet @ file:///D:/bld/greenlet_1628272304925/work
+grpcio==1.32.0
+h5py==2.10.0
+idna==3.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+Keras==2.4.1
+Keras-Preprocessing==1.1.2
+Markdown==3.3.4
+MarkupSafe==1.1.1
+numpy==1.19.5
+oauthlib==3.1.1
+opencv-python==4.5.3.56
+opt-einsum==3.3.0
+Pillow==8.3.2
+protobuf==3.18.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pycryptodome @ file:///D:/bld/pycryptodome_1632548021062/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+python-engineio==3.13.2
+python-socketio==4.6.1
+PyYAML==5.4.1
+requests==2.26.0
+requests-oauthlib==1.3.0
+rsa==4.7.2
+scipy==1.7.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.4.1
+tensorflow-estimator==2.4.0
+termcolor==1.1.0
+typing-extensions==3.7.4.3
+urllib3==1.26.7
+Werkzeug==1.0.1
+wincertstore==0.2
+wrapt==1.12.1
